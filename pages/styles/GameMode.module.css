@@ -1,0 +1,37 @@
+.gameModeWrapper {
+    width: 100%;
+}
+
+@media (min-width: 870px) {
+.gameModeContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    max-width: 1400px;
+    justify-content: flex-end;
+    padding: 30px;
+    }
+}
+
+.gameModeBurner {
+    flex: 1
+}
+
+
+.gameAwaiting {
+    display: flex;
+    flex-direction: column;
+}
+  
+.waitingModeTitle {
+    font-size: 2rem;
+    padding: 30px;
+}
+
+.waitingModeText {
+    font-size: 1.5rem;
+    justify-content: center;
+    display: flex;
+    padding: 30px;
+
+}

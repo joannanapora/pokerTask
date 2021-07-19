@@ -1,0 +1,22 @@
+.card {
+    margin: 10px;
+    border: none;
+}
+
+.discardbox {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.cardImage {
+    width: 140px;
+}
+
+.checkbox {
+     cursor: pointer;
+     width: 15px;
+     height: 15px; 
+     margin: 5px;
+}

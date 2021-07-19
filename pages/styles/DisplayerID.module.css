@@ -1,0 +1,8 @@
+.displayer {
+    width: 100%;
+    font-size: 0.8rem;
+    height: 100px;
+    display: flex;
+    font-weight: 700;
+    justify-content: center;
+}

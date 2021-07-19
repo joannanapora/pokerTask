@@ -1,0 +1,12 @@
+
+.copyButton {
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.copyConfirm {
+    margin: 10px 60px;
+    color: rgb(22, 85, 22);
+    font-size: 15px;
+}
